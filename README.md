@@ -1,4 +1,4 @@
-# wfs
+# wfsl
 Website for student learning
 
 [Confluence](https://github.com/Trayfan/wfsl/wiki/)
