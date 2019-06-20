@@ -5,6 +5,6 @@ Website for student learning
 
 [Kanban board](https://github.com/Trayfan/wfsl/projects/1)
 
-[Task manager](https://github.com/Trayfan/wfsl/issues)
+[jira like](https://github.com/Trayfan/wfsl/issues)
 
 
